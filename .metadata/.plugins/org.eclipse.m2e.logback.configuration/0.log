@@ -1,0 +1,24 @@
+2016-01-18 10:11:39,261 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FinraIntegerTest:FinraIntegerTest:0.0.1-SNAPSHOT @ /Users/denisputnam/Development/FINRA/IntegerTest/FinraIntegerTest/pom.xml.
+2016-01-18 10:11:39,632 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FinraIntegerTest/src
+2016-01-18 10:11:39,633 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /FinraIntegerTest/src/test/java because it overlaps with /FinraIntegerTest/src
+2016-01-18 10:11:39,686 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-18 10:11:39,861 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FinraIntegerTest:FinraIntegerTest:0.0.1-SNAPSHOT @ /Users/denisputnam/Development/FINRA/IntegerTest/FinraIntegerTest/pom.xml.
+2016-01-18 10:11:39,973 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FinraIntegerTest/src
+2016-01-18 10:11:39,974 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /FinraIntegerTest/src/test/java because it overlaps with /FinraIntegerTest/src
+2016-01-18 10:11:40,003 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-18 10:11:40,121 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-18 10:11:40,132 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/denisputnam/Development/FINRA/IntegerTest/FinraIntegerTest/src/main/resources
+2016-01-18 10:11:40,133 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-18 10:11:40,134 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/denisputnam/Development/FINRA/IntegerTest/FinraIntegerTest/src/test/resources
+2016-01-18 10:12:05,337 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-18 10:12:05,345 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/denisputnam/Development/FINRA/IntegerTest/FinraIntegerTest/src/main/resources
+2016-01-18 10:12:05,347 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-18 10:12:05,347 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/denisputnam/Development/FINRA/IntegerTest/FinraIntegerTest/src/test/resources
+2016-01-18 10:12:49,436 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-18 10:12:49,445 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/denisputnam/Development/FINRA/IntegerTest/FinraIntegerTest/src/main/resources
+2016-01-18 10:12:49,446 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-18 10:12:49,447 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/denisputnam/Development/FINRA/IntegerTest/FinraIntegerTest/src/test/resources
+2016-01-18 10:14:55,315 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-18 10:14:55,317 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/denisputnam/Development/FINRA/IntegerTest/FinraIntegerTest/src/main/resources
+2016-01-18 10:14:55,318 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-01-18 10:14:55,319 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/denisputnam/Development/FINRA/IntegerTest/FinraIntegerTest/src/test/resources
